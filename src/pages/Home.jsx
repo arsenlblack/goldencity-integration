@@ -6,7 +6,7 @@ import { FaWallet, FaStore, FaMoneyBillWave, FaExchangeAlt, FaChartLine, FaLock,
 import { SiEthereum } from 'react-icons/si';
 import { FiChevronDown, FiChevronUp } from 'react-icons/fi';
 
-function Home() {
+function Home({ onConnectClick, walletAddress }) {
   const [openSections, setOpenSections] = useState({});
 
   const featuredProperties = [
@@ -417,9 +417,10 @@ function Home() {
             </Link>
             <button
               className="btn bg-primary-700 hover:bg-primary-800"
+              onClick={onConnectClick}
             >
               <FaWallet className="mr-2" />
-              Connect Wallet
+              {walletAddress ? "My Wallet" : "Connect Wallet"} 
             </button>
           </div>
         </div>
