@@ -1,3 +1,32 @@
+# ✅ GoldenCity Web3 Integration — Candidate Submission
+
+**Developer:** Arsen Nimchuk  
+**Role:** Full-Stack / Web3 Developer  
+**Task:** Web3 Wallet Integration (MetaMask)  
+**Date:** 2025-11-12  
+
+---
+
+### 🔗 Live Demo / Video
+🎥 [Demo Video on Google Drive](https://drive.google.com/file/d/1fZcVvq6wE3oOL3lrsWh4JjpLRFHVqdbV/view)
+
+---
+
+### 🧩 Summary
+This implementation integrates **MetaMask wallet connection** directly into the existing **GoldenCity** project architecture.  
+The solution includes:
+
+- Modular **WalletConnector** component integrated with the global app state  
+- Connection & disconnection handling with address and network display  
+- Dynamic wallet updates when the user switches accounts or networks  
+- Clean **React + Tailwind** UI styled to match the GoldenCity theme  
+- Theme toggle with persistent user preference  
+- Responsive modal and navbar interaction flow  
+
+> The code was written in line with the provided structure, ensuring maintainability and easy future extension for other Web3 wallets.
+
+---
+
 #### GoldenCity is a modern real estate investment platform that combines traditional property investing with cryptocurrency payments. Built with React and Tailwind CSS, it mirrors the functionality of Arrived.com while adding blockchain-based transaction capabilities.
 
 ## Key Features
