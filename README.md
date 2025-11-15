@@ -1,3 +1,65 @@
+## 🛑 DO NOT CLONE — SECURITY WARNING
+
+### This repository is preserved **only as an educational record of a Web3 scam attempt**
+
+This project is **NOT SAFE TO RUN**, **NOT SAFE TO INSTALL**, and must **NOT be executed on any machine**.
+
+During a technical test involving Web3 wallet integration, the original source code was found to be associated with suspicious activity including:
+
+* unauthorized Python execution from unexpected locations
+* attempts to establish outbound connections using hidden scripts
+* files created without developer’s action
+* multiple processes running from non-standard directories
+* behavior consistent with crypto-theft malware patterns
+
+Because of this, the original assignment repository has been **archived and renamed** to prevent anyone from accidentally cloning or executing the code.
+
+### ⚠️ What this repository is
+
+A **documented example of a potentially malicious Web3 assignment**, kept for transparency and for future reference by developers, researchers, and cybersecurity professionals.
+
+### ⚠️ What this repository is NOT
+
+* not a safe template
+* not a working Web3 integration project
+* not intended to be used, rebuilt, or executed
+
+Any files left here exist **only** to show structure and context.
+All executable components have been removed.
+
+---
+
+## 🔐 Important Notice
+
+If you have cloned or executed any version of the original repository:
+
+1. Immediately disconnect your machine from the internet
+2. Scan the system with a reputable antivirus/antimalware tool
+3. Revoke or rotate credentials and seed phrases used during testing
+4. Do NOT run any files from the original project again
+
+---
+
+## 📝 Why this repository remains public
+
+This archive is kept to raise awareness about real-world risks of “technical test scams” used to target Web3 developers.
+
+No sensitive information or personal data is included.
+
+---
+
+## 📁 Video Assets
+
+The original demo video has been removed to prevent misunderstanding and accidental execution.
+
+---
+
+## 🧭 Contact
+
+If you need more details regarding this incident or wish to report a similar case, contact through GitHub Issues.
+
+---
+
 # ✅ GoldenCity Web3 Integration — Candidate Submission
 
 **Developer:** Arsen Nimchuk  
